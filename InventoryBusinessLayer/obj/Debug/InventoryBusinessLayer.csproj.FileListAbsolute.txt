@@ -1,0 +1,10 @@
+C:\Users\vivek tyagi\Desktop\Inventory-Management-System-master\Inventory-Management-System-master\InventoryManagementSystem\InventoryBusinessLayer\bin\Debug\InventoryBusinessLayer.dll
+C:\Users\vivek tyagi\Desktop\Inventory-Management-System-master\Inventory-Management-System-master\InventoryManagementSystem\InventoryBusinessLayer\bin\Debug\InventoryBusinessLayer.pdb
+C:\Users\vivek tyagi\Desktop\Inventory-Management-System-master\Inventory-Management-System-master\InventoryManagementSystem\InventoryBusinessLayer\bin\Debug\InventoryDataLayer.dll
+C:\Users\vivek tyagi\Desktop\Inventory-Management-System-master\Inventory-Management-System-master\InventoryManagementSystem\InventoryBusinessLayer\bin\Debug\InventoryDataLayer.pdb
+C:\Users\vivek tyagi\Desktop\Inventory-Management-System-master\Inventory-Management-System-master\InventoryManagementSystem\InventoryBusinessLayer\bin\Debug\InventoryDataLayer.dll.config
+C:\Users\vivek tyagi\Desktop\Inventory-Management-System-master\Inventory-Management-System-master\InventoryManagementSystem\InventoryBusinessLayer\obj\Debug\InventoryBusinessLayer.csproj.AssemblyReference.cache
+C:\Users\vivek tyagi\Desktop\Inventory-Management-System-master\Inventory-Management-System-master\InventoryManagementSystem\InventoryBusinessLayer\obj\Debug\InventoryBusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\vivek tyagi\Desktop\Inventory-Management-System-master\Inventory-Management-System-master\InventoryManagementSystem\InventoryBusinessLayer\obj\Debug\InventoryBusinessLayer.csproj.CopyComplete
+C:\Users\vivek tyagi\Desktop\Inventory-Management-System-master\Inventory-Management-System-master\InventoryManagementSystem\InventoryBusinessLayer\obj\Debug\InventoryBusinessLayer.dll
+C:\Users\vivek tyagi\Desktop\Inventory-Management-System-master\Inventory-Management-System-master\InventoryManagementSystem\InventoryBusinessLayer\obj\Debug\InventoryBusinessLayer.pdb
